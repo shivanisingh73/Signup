@@ -1,3 +1,2 @@
 # Signup
-Assignment-Sign up form
-This repo contains Signup.html , thankyou.html and a logo.png
+This repository contains Signup.html , thankyou.html and logo.png
